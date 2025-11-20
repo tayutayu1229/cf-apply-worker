@@ -1,0 +1,10 @@
+name = "white-flower-971a"
+main = "worker.js"
+compatibility_date = "2024-11-20"
+
+[vars]
+LINE_TOKEN = ""
+LINE_ADMIN_USERID = ""
+SHEET_ID = ""
+GOOGLE_CLIENT_EMAIL = ""
+GOOGLE_PRIVATE_KEY = ""
